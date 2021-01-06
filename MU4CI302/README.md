@@ -11,6 +11,9 @@ Le but de cette partie de l'UE est d'initier les étudiants aux méthodes numér
 
 ### Communication au sein de l'UE
 
+Nous avons mis en place un serveur Discord dont les liens d'invitation vous ont été communiqué sur le forum Moodle de l'UE pour le groupe du lundi.
+C'est l'outil qui sera utilisé pour les cours en visio, et aussi pour les questions/réponses par écrit.
+
 ### Planning
 
 ### Ressources logicielles
