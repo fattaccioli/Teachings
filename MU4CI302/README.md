@@ -31,3 +31,17 @@ Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur ext
 ### Notation
 
 ## Resources
+
+### Importance of diffusion processes
+http://thebiologyprimer.com/diffusion-and-osmosis
+
+### Image analysis in general and using Fiji/ImageJ
+https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
+
+### Particle tracking with Matlab 
+http://site.physics.georgetown.edu/matlab/
+
+### Brownian motion
+https://www.youtube.com/watch?v=NSe3TFLYcO8
+
+
