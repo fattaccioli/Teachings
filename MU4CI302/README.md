@@ -6,6 +6,11 @@ Bonjour à toutes et à tous, ce document donnes les informations nécessaires p
 ## Objectifs du cours
 
 Le but de cette partie de l'UE est d'initier les étudiants aux méthodes numériques d'analyse d'images, dans le contexte de la physico-chimie et de la biologie.
+Nous avons isolé deux ou trois domaines pour lesquels nous vous demandons de 
+- comprendre la problématique posée
+- proposer une méthode d'analyse de données par rapport aux observables choisis
+- la mettre en oeuvre à partir d'outils standart
+- proposer une analyse de résultats pertinente
 
 ## Organisation générale
 
@@ -27,17 +32,7 @@ C'est l'outil qui sera utilisé pour les cours en visio, et aussi pour les quest
 - S9 – 15-17 mar PM : Autonomie + Visio
 - S10 – 22-24 mar PM : Visio / Présentations de fin de projet
 
-### Ressources logicielles
-
-Analyser des images necéssite d'utiliser des logiciels spécifiques ou généralistes, ayant une interface graphique ou non. Dans le cadre de ce cours, 3 outils sont à votre disposition, et vous pouvez les utiliser indifféremment en fonction de l'objectif fixé : 
-- FIJI/ImageJ : https://fiji.sc (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
-- Matlab : https://www.mathworks.com/products/matlab.html (Disponible sur le bureau à distance de LUTES)
-- Python avec la distribution Anaconda : https://anaconda.org (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
-
-Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur extérieur à LUTES (domicile, bibliothèque), vous devez suivre ces instructions suivantes : 
-- Installer Microsoft Remote Desktop (disponible pour PC et Mac : https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab
-- Télécharger le fichier de connection en suivant ce lien : https://lutes.upmc.fr/bdl-ext.php
-- Vous munir de vos identifiants SU
+Lors des semaines en autonomie, vous pouvez utiliser des salles disponibles sur le campus de l'Université, ou les bibliothèques.
 
 ### Attendus du cours et notation
 
@@ -47,13 +42,38 @@ Il y aura plusieurs choses à rendre pendant le semestre :
 2. Un rapport court (4000 mots maximum, bibliographie incluse) à rendre pour la semaine du 17 mars 2021
 3. Une présentation par binôme (10 minutes / 5 min de questions)
 
+## Progression du travail
+
+1. Comme des cours en ligne sont parfois très bien faits, nous vous proposons pour la période S1-S2-S3 de vous enregistrer sur ce cours en ligne : 
+https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
+
+et de suivre au moins les 3 premiers cours : 
+- Week 1: Digital Images
+Introduction to digital image formation and how optical systems go from objects to images.
+- Week 2: Colors
+Review of human visual perception and the RGB color model. Introduction to the concepts of image bit-depth and lookup tables.
+- Week3: Operating on Images
+Introduction to image scaling, interpolation, and mathematical operations of images, and why certain bit-depths are more suitable than others.
+
+Nous ferons des points intermédiaires en visio pour que vous puissiez nous poser des questions sur des choses encore peu comprises.
+
+2. A suivre !
+
 ## Resources
 
 ### Importance of diffusion processes
 http://thebiologyprimer.com/diffusion-and-osmosis
 
-### Image analysis in general and using Fiji/ImageJ
-https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
+### Ressources logicielles
+Analyser des images necéssite d'utiliser des logiciels spécifiques ou généralistes, ayant une interface graphique ou non. Dans le cadre de ce cours, 3 outils sont à votre disposition, et vous pouvez les utiliser indifféremment en fonction de l'objectif fixé : 
+- FIJI/ImageJ : https://fiji.sc (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
+- Matlab : https://www.mathworks.com/products/matlab.html (Disponible sur le bureau à distance de LUTES)
+- Python avec la distribution Anaconda : https://anaconda.org (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
+
+Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur extérieur à LUTES (domicile, bibliothèque), vous devez suivre ces instructions suivantes : 
+- Installer Microsoft Remote Desktop (disponible pour PC et Mac : https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab
+- Télécharger le fichier de connection en suivant ce lien : https://lutes.upmc.fr/bdl-ext.php
+- Vous munir de vos identifiants SU
 
 ### Particle tracking with Matlab 
 http://site.physics.georgetown.edu/matlab/
