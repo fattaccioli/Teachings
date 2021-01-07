@@ -12,6 +12,12 @@ Nous avons isolé deux ou trois domaines pour lesquels nous vous demandons de
 - la mettre en oeuvre à partir d'outils standart
 - proposer une analyse de résultats pertinente
 
+Parmi les problèmes proposés : 
+
+1. mesure d'un coefficient de diffusion d'une particule (avec et sans champ externe)
+2. mesure de l'hétérogénéité de fluorescence d'une population de cellules
+3. à suivre.
+
 ## Organisation générale
 
 ### Communication au sein de l'UE
