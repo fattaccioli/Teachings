@@ -18,6 +18,15 @@ Parmi les problèmes proposés :
 2. mesure de l'hétérogénéité de fluorescence d'une population de cellules
 3. à suivre.
 
+## Prérequis
+
+Avant d'attaquer la Semaine 4 et suivantes (voir ci-dessous), vous devez avoir progressé en programmation Matlab/Octave et/ou Python pour l'analyse d'image et l'analyse de données.
+
+Un bon cours en ligne est celui-ci : 
+https://www.edx.org/course/matlab-et-octave-pour-debutants
+
+Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
+
 ## Organisation générale
 
 ### Communication au sein de l'UE
