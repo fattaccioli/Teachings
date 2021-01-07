@@ -6,6 +6,26 @@ Bonjour à toutes et à tous, ce document donnes les informations nécessaires p
 ## Objectifs du cours
 
 Le but de cette partie de l'UE est d'initier les étudiants aux méthodes numériques d'analyse d'images, dans le contexte de la physico-chimie et de la biologie.
+Nous avons isolé deux ou trois domaines pour lesquels nous vous demandons de 
+- comprendre la problématique posée
+- proposer une méthode d'analyse de données par rapport aux observables choisis
+- la mettre en oeuvre à partir d'outils standart
+- proposer une analyse de résultats pertinente
+
+Parmi les problèmes proposés : 
+
+1. mesure d'un coefficient de diffusion d'une particule (avec et sans champ externe)
+2. mesure de l'hétérogénéité de fluorescence d'une population de cellules
+3. à suivre.
+
+## Prérequis
+
+Avant d'attaquer la Semaine 4 et suivantes (voir ci-dessous), vous devez avoir progressé en programmation Matlab/Octave et/ou Python pour l'analyse d'image et l'analyse de données.
+
+Un bon cours en ligne est celui-ci : 
+https://www.edx.org/course/matlab-et-octave-pour-debutants
+
+Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
 
 ## Organisation générale
 
@@ -16,8 +36,50 @@ C'est l'outil qui sera utilisé pour les cours en visio, et aussi pour les quest
 
 ### Planning
 
-### Ressources logicielles
+- S1 – 11-13 janv PM : Autonomie + Visio
+- S2 – 18-20 janv PM : Autonomie (Salle disponible)
+- S3 – 25-27 janv PM : Autonomie + Visio
+- S4 – 1-3 fev PM :    Autonomie (Salle disponible)
+- S5 – 8-10 fev PM : Autonomie + Visio
+- S6 – 15-17 fev PM :    Autonomie (Salle disponible)
+- S7 – 1-3 mar PM : Autonomie + Visio
+- S8 – 8-10 mar PM :    Autonomie (Salle disponible)
+- S9 – 15-17 mar PM : Autonomie + Visio
+- S10 – 22-24 mar PM : Visio / Présentations de fin de projet
 
+Lors des semaines en autonomie, vous pouvez utiliser des salles disponibles sur le campus de l'Université, ou les bibliothèques.
+
+### Attendus du cours et notation
+
+Il y aura plusieurs choses à rendre pendant le semestre : 
+
+1. Quelques quiz intermédiares sur des points techniques
+2. Un rapport court (4000 mots maximum, bibliographie incluse) à rendre pour la semaine du 17 mars 2021
+3. Une présentation par binôme (10 minutes / 5 min de questions)
+
+## Progression du travail
+
+1. Comme des cours en ligne sont parfois très bien faits, nous vous proposons pour la période S1-S2-S3 de vous enregistrer sur ce cours en ligne : 
+https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
+
+et de suivre au moins les 3 premiers cours : 
+- Week 1: Digital Images
+Introduction to digital image formation and how optical systems go from objects to images.
+- Week 2: Colors
+Review of human visual perception and the RGB color model. Introduction to the concepts of image bit-depth and lookup tables.
+- Week3: Operating on Images
+Introduction to image scaling, interpolation, and mathematical operations of images, and why certain bit-depths are more suitable than others.
+
+Nous ferons des points intermédiaires en visio pour que vous puissiez nous poser des questions sur des choses encore peu comprises.
+
+2. A suivre !
+
+## Resources
+
+### Importance of diffusion processes
+http://thebiologyprimer.com/diffusion-and-osmosis
+
+### Ressources logicielles
 Analyser des images necéssite d'utiliser des logiciels spécifiques ou généralistes, ayant une interface graphique ou non. Dans le cadre de ce cours, 3 outils sont à votre disposition, et vous pouvez les utiliser indifféremment en fonction de l'objectif fixé : 
 - FIJI/ImageJ : https://fiji.sc (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
 - Matlab : https://www.mathworks.com/products/matlab.html (Disponible sur le bureau à distance de LUTES)
@@ -27,16 +89,6 @@ Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur ext
 - Installer Microsoft Remote Desktop (disponible pour PC et Mac : https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab
 - Télécharger le fichier de connection en suivant ce lien : https://lutes.upmc.fr/bdl-ext.php
 - Vous munir de vos identifiants SU
-
-### Notation
-
-## Resources
-
-### Importance of diffusion processes
-http://thebiologyprimer.com/diffusion-and-osmosis
-
-### Image analysis in general and using Fiji/ImageJ
-https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
 
 ### Particle tracking with Matlab 
 http://site.physics.georgetown.edu/matlab/
