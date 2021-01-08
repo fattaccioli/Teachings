@@ -52,6 +52,13 @@ C'est l'outil qui sera utilisé pour les cours en visio, et aussi pour les quest
 
 Lors des semaines en autonomie, vous pouvez utiliser des salles disponibles sur le campus de l'Université, ou les bibliothèques.
 
+### Constitution des binômes de travail
+
+Les binômes constituer sont à renseigner ici : 
+https://docs.google.com/spreadsheets/d/1XZ8V1lkKLiq6j419Xy_APTPY0jAI5ADMmkDO0HPqT44/edit?usp=sharing
+
+Veuillez mettre à jour les colonnes de progression ImageJ et Matlab au cours du semestre (de manière hebdomadaire). Cela sera utile pour être certain que les notions sont connues de tout le monde.
+
 ### Attendus du cours et notation
 
 Il y aura plusieurs choses à rendre pendant le semestre : 
