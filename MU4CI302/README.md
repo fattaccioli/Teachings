@@ -84,6 +84,16 @@ Nous ferons des points intermédiaires en visio pour que vous puissiez nous pose
 
 2. A suivre !
 
+## Programme des séances
+
+### Séance 1 (11/01/2021)
+
+- Avant la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
+- Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord
+- Connectez-vous sur la visio Discord à XXh pour que l'on puisse, Thomas et moi, vous présenter notre partie d'UE et les projets associés.
+
+### Séance 2 (18/01/2021)
+
 ## Resources
 
 ### Importance of diffusion processes
