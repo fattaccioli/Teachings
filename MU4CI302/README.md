@@ -20,6 +20,9 @@ Parmi les problèmes proposés :
 
 ## Prérequis
 
+Pouvez-vous remplir ce sondage en amont du premier cours ? 
+https://forms.gle/HMn5mAbKgZwz6jEV6
+
 Avant d'attaquer la Semaine 4 et suivantes (voir ci-dessous), vous devez avoir progressé en programmation Matlab/Octave et/ou Python pour l'analyse d'image et l'analyse de données.
 
 Un bon cours en ligne est celui-ci : 
