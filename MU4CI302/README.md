@@ -83,7 +83,10 @@ http://thebiologyprimer.com/diffusion-and-osmosis
 Analyser des images necéssite d'utiliser des logiciels spécifiques ou généralistes, ayant une interface graphique ou non. Dans le cadre de ce cours, 3 outils sont à votre disposition, et vous pouvez les utiliser indifféremment en fonction de l'objectif fixé : 
 - FIJI/ImageJ : https://fiji.sc (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
 - Matlab : https://www.mathworks.com/products/matlab.html (Disponible sur le bureau à distance de LUTES)
+- GNU Octave pour l'analyse d'image : https://octave.org/doc/v4.2.1/Image-Processing.html
 - Python avec la distribution Anaconda : https://anaconda.org (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
+
+GNU Octave est un clone libre de Matlab. Vous pouvez donc l'installer sur votre ordinateur personnel sans license payante particulière.
 
 Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur extérieur à LUTES (domicile, bibliothèque), vous devez suivre ces instructions suivantes : 
 - Installer Microsoft Remote Desktop (disponible pour PC et Mac : https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab
