@@ -19,7 +19,7 @@ C'est pour cela qu'on veut compresser les images pour qu'elles prennent moins de
 ## Compression avec et sans perte
 
 Il y a quelques petites choses à savoir sur la compression : 
-- il existe des compressions dites loss less (sans perte) qui permettent de gagner de la place ET de revenir à l'image originale intacte si necessaire. Ce sera des formats de type  TIFF
+- il existe des compressions dites loss less (sans perte) qui permettent de gagner de la place ET de revenir à l'image originale intacte si necessaire. Ce sera des formats de type  TIFF avec la compression LZW ou ZIP : https://havecamerawilltravel.com/photographer/tiff-image-compression/
 - les compressions les plus courantes que vous connaissez ne permettent pas de revenir à l'image originale, car vous voulez en général des images de petit poids pour envoyer une photo ou la mettre sur snapchat. Je pense aux formats jpg et gif
 
 
