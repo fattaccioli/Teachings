@@ -5,10 +5,11 @@ Alors pour les formats d'images (je ne peux pas me mettre en visio tout de suite
 1. une image numérique = un tableau ou une matrice avec des coordonnées de lignes et de colonnes qui définissent un pixel
 2. dans chaque case de la matrice, on stocke un nombre (ou plusieurs pour des images en couleur) qui est grosso modo proportionnel à l'intensité lumineuse reçue par le pixel
 3. Cette intensité est codée (quantifiée) entre I=0 (noir) à I = 2^n -1 (blanc), avec n : profondeur.
-- Si n=8, on a 256 valeurs de gris possible. 
-- Si n= 12 on a 4096 nuances de gris.
+- Si n=8, on a 256 valeurs de gris possibles (de 0 à 2^8-1=255). 
+- Si n= 12 on a 4096 nuances de gris possibles
+- Si n=16 (le plus courant aujourd'hui, on a 65536 valeurs de gris possibles
 
-Quand on stocke une image numérique de la sorte, on a nxm pixels, et (pour n=8 bits) une image qui fait en poids N*M octets. 
+Quand on stocke une image numérique de la sorte, on a NxN pixels, et (pour n=8 bits) une image qui fait en poids NxM octets. 
 
 Pour un capteur de 5 Mpixels, ca fait donc 5 megaoctet par image.
 
