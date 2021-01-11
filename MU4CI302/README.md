@@ -91,9 +91,9 @@ Nous ferons des points intermédiaires en visio pour que vous puissiez nous pose
 En amont de la séance, veuillez regarder cette vidéo : https://www.youtube.com/watch?v=sAIzoZac9ZA
 Elle a été réalisée par le DIM ELICIT, qui est une structure de financement de la région Ile de France dédiée aux Technologies pour la Santé.
 
-- Avant la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
-- Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord
-- Connectez-vous sur la visio Discord à XXh pour que l'on puisse, Thomas et moi, vous présenter notre partie d'UE et les projets associés.
+- Connectez-vous sur la visio Discord à 13h30 pour que l'on puisse, Thomas et moi, vous présenter notre partie d'UE et les projets associés.
+- Avant ou après la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
+- Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord. Nous répondrons aux questions par écrit, puis lors de la visio de la semaine suivante.
 
 ### Séance 2 (18/01/2021)
 
