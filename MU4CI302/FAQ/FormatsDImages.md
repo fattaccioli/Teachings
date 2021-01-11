@@ -37,5 +37,5 @@ Le format de prédilection : TIFF, avec eventuellement une compression loss less
 
 ## Quelques ressources : 
 
-Khan Academy : https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:data-compression/a/simple-image-compression
-Shortpixel blog : https://blog.shortpixel.com/complete-guide-image-compression-reduce-image-sizes-faster-sites/
+- Khan Academy : https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:data-compression/a/simple-image-compression
+- Shortpixel blog : https://blog.shortpixel.com/complete-guide-image-compression-reduce-image-sizes-faster-sites/
