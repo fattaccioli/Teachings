@@ -29,7 +29,7 @@ Plus le poids final de l'image est petit, et plus vous voyez des défauts (aplat
 
 ## Conclusion pour l'imagerie scientifique
 
-Quand on fait de l'imagerie *scientifique*, la valeur d'intensité stockée par pixel est importante : elle sera par exemple proportionnelle à une intensité optique de l'échantillons, à la concentration locale d'un marqueur fluorescent, etc.
+Quand on fait de l'imagerie *scientifique*, la valeur d'intensité stockée par pixel est importante : elle sera par exemple proportionnelle à une intensité optique de l'échantillon, à la concentration locale d'un marqueur fluorescent, etc. On ne peut pas se permettre d'avoir une image qui représente correctement les structures, au niveau visuel, mais qui perdrait cette information.
 
 De manière générale, on ne travaille JAMAIS avec des images en jpg ou en gif pour faire de l'analyse d'images, à part si on veut avoir une illustration !
 
