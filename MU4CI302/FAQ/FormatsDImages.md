@@ -9,7 +9,7 @@ Alors pour les formats d'images (je ne peux pas me mettre en visio tout de suite
 - Si n= 12 on a 4096 nuances de gris possibles
 - Si n=16 (le plus courant aujourd'hui, on a 65536 valeurs de gris possibles
 
-Quand on stocke une image numérique de la sorte, on a NxN pixels, et (pour n=8 bits) une image qui fait en poids NxM octets. 
+Quand on stocke une image numérique de la sorte, on a NxM pixels, et (pour n=8 bits) une image qui fait en poids NxM octets. 
 
 Pour un capteur de 5 Mpixels, ca fait donc 5 megaoctet par image.
 
