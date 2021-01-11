@@ -85,6 +85,10 @@ https://www.edx.org/course/matlab-et-octave-pour-debutants
 
 Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
 
+### De la semaine 5 à la fin de l'UE
+
+A mettre à jour.
+
 
 ## Programme des séances
 
