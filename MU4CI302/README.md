@@ -23,13 +23,6 @@ Parmi les problèmes proposés :
 Pouvez-vous remplir ce sondage en amont du premier cours ? 
 https://forms.gle/HMn5mAbKgZwz6jEV6
 
-Avant d'attaquer la Semaine 4 et suivantes (voir ci-dessous), vous devez avoir progressé en programmation Matlab/Octave et/ou Python pour l'analyse d'image et l'analyse de données.
-
-Un bon cours en ligne est celui-ci : 
-https://www.edx.org/course/matlab-et-octave-pour-debutants
-
-Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
-
 ## Organisation générale
 
 ### Communication au sein de l'UE
@@ -69,7 +62,11 @@ Il y aura plusieurs choses à rendre pendant le semestre :
 
 ## Progression du travail
 
-1. Comme des cours en ligne sont parfois très bien faits, nous vous proposons pour la période S1-S2-S3 de vous enregistrer sur ce cours en ligne : 
+### De la semaine 1 à la semaine 4 incluse
+
+Comme des cours en ligne sont parfois très bien faits, nous vous proposons pour la première période de cette UE de vous enregistrer sur ces cours en ligne : 
+
+1. Image Processing and Analysis for Life Scientists
 https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
 
 et de suivre au moins les 3 premiers cours : 
@@ -82,7 +79,12 @@ Introduction to image scaling, interpolation, and mathematical operations of ima
 
 Nous ferons des points intermédiaires en visio pour que vous puissiez nous poser des questions sur des choses encore peu comprises.
 
-2. A suivre !
+2. Matlab et GNU Octave pour les débutants 
+https://www.edx.org/course/matlab-et-octave-pour-debutants
+
+
+Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
+
 
 ## Programme des séances
 
