@@ -45,6 +45,11 @@ C'est l'outil qui sera utilisé pour les cours en visio, et aussi pour les quest
 
 Lors des semaines en autonomie, vous pouvez utiliser des salles disponibles sur le campus de l'Université, ou les bibliothèques.
 
+### FAQ (Frequently Asked Questions)
+
+Les réponses aux questions que vous nous posez par chat écrit seront mises en forme et rédigées dans le répertoire FAQ.
+Il sera mis à jour régulièrement.
+
 ### Constitution des binômes de travail
 
 Les binômes constituer sont à renseigner ici : 
