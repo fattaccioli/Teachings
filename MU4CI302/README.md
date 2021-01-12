@@ -115,7 +115,7 @@ Normalement, vous avez tous un environnement de travail fonctionnel, et réalis�
 
 Il est très important que vous puissiez refaire les exemples seuls, c'est-à-dire sans support visuel. 
 
-### Séance 2 (25/01/2021)
+### Séance 3 (25/01/2021)
 
 Actualisation en cours
 
