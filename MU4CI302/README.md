@@ -103,6 +103,17 @@ Elle a été réalisée par le DIM ELICIT, qui est une structure de financement 
 
 ### Séance 2 (18/01/2021)
 
+Normalement, vous avez tous un environnement de travail fonctionnel, et réalisé au mois la partie 1 du MOOC sur l'analyse d'image et celle sur Matlab/Octave.
+
+- RDV à 13h30 sur la visio Discord pour debriefer la séance 1, à partir des questions que vous aurez posées sur le chat pendant la semaines.
+- Normalement, vous pouvez suivre la partie 2 des cours sur l'analyse d'image et des cours sur Matlab/Octave.
+
+Il est très important que vous puissiez refaire les exemples seuls, c'est-à-dire sans support visuel. 
+
+### Séance 2 (25/01/2021)
+
+Actualisation en cours
+
 ## Resources
 
 ### Importance of diffusion processes
