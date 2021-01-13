@@ -15,6 +15,8 @@ Dans les deux cas, on a 256 valeurs (2^8)
 
 128 = 1x2^0 + 1x2^1 + 1x2^2 + 1x2^3 + 1x2^4 + 1x2^5+ 1x2^6 + 1x2^7
 
+Si vous voulez aller plus loin, c'est ici : [lien](https://www3.ntu.edu.sg/home/ehchua/programming/java/datarepresentation.html)
+
 # Fonctions intmin() et intmax()
 
 Les fonctions intmin() et intmax() sont des fonctions  spécifiques qui concernent les entiers et leur gestion. 
