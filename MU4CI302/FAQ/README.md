@@ -4,3 +4,4 @@ Voilà quelques réponses aux diverses questions que vous nous avez posés penda
 2. Mode, moyenne et médiane : [lien](https://github.com/jfattaccioli/Teachings/blob/master/MU4CI302/FAQ/mode_mediane_moyenne.md)
 3. Entiers signés et non signés, fonctions intmin() et intmax() en Matlab : [lien](https://github.com/jfattaccioli/Teachings/blob/master/MU4CI302/FAQ/EntierSignesEtNonSignes.md)
 4. Rappels de calcul matriciel : [lien](https://github.com/jfattaccioli/Teachings/blob/master/MU4CI302/FAQ/RappelsCalculMatriciel.md)
+5. Formulaire récapitulatif Matlab : [lien](https://github.com/jfattaccioli/Teachings/blob/master/MU4CI302/FAQ/FormulaireMatlab.md)
