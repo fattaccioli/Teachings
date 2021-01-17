@@ -34,6 +34,14 @@ Nous sommes ici sur la capture d'écran de mon application Discord, et vous pouv
 Dans votre interface, ces icones n'apparaissent pas, puisque votre application est encore vierge, à l'exception du + qui vous permet d'ajouter un serveur.
 
 ![Screenshot](pics/Step1.png)
+
+Cliquez dessus, et une petite fenêtre apparaitra. Vous avez alors le choix : 
+- De créer un serveur que vous configurerez complètement (Create my own)
+- De créer un serveur en suivant un modèle.
+- De rejoindre un serveur pour lequel vous avez reçu une invitation (Join a Server)
+
+Choisissez la première option (Create my own)
+
 ![Screenshot](pics/Step2.png)
 ![Screenshot](pics/Step3.png)
 ![Screenshot](pics/Step4.png)
