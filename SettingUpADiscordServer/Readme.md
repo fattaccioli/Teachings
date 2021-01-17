@@ -165,6 +165,7 @@ Appuyez sur **+** à coté de *Roles* et une ligne apparaît.
 
 - Inscrivez **L1Groupe1**
 - Vous pouvez choisir une couleur qui permettra de différencier les membres qui appartiendront à ce groupe.
+- Sélectionnez l'option **Display role members separately from online members** de manière à voir les rôles dans la liste des membres, notamment quand vous serez sur les canaux #general.
 - Enfin cliquez sur **Save Changes**
 
 ![Screenshot](pics/Step15.png)
@@ -218,6 +219,20 @@ Le lien permettant de rejoindre votre serveur peut :
 - expirer au bout d'un certain nombre de personnes ayant cliqué dessus. Choisissez **No limit**
 
 Enfin cliquez, sur **Generate New Link**
+
+## Inviter des étudiants ou des collègues à rejoindre votre serveur
+
+Copiez le lien qui apparaît dans la nouvelle fenêtre.
+
+![Screenshot](pics/Step13.png)
+
+Envoyez le par le moyen de votre choix aux personnes que vous souhaitez rejoindre votre serveur.
+
+A partir de maintenant, il y a deux possibilités : 
+
+- vos contacts ont un compte Discord, et se connecterons sans difficultés à ce nouveau serveur en cliquant sur le lien.
+- vos contacts n'ont pas de compte actif, et devront en créer un après avoir cliqué sur le lien.
+
 
 
 ## Ajouter un nouveau membre à son rôle correspondant et lui donner accès à sa classe.
