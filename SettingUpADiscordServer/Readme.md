@@ -1,3 +1,18 @@
 # Petit tuto pour mettre en place un serveur Discord pour l'enseignement
 
 ![Screenshot](pics/Step1.png)
+![Screenshot](pics/Step2.png)
+![Screenshot](pics/Step3.png)
+![Screenshot](pics/Step4.png)
+![Screenshot](pics/Step5.png)
+![Screenshot](pics/Step6.png)
+![Screenshot](pics/Step7.png)
+![Screenshot](pics/Step8.png)
+![Screenshot](pics/Step9.png)
+![Screenshot](pics/Step10.png)
+![Screenshot](pics/Step11.png)
+![Screenshot](pics/Step12.png)
+![Screenshot](pics/Step13.png)
+![Screenshot](pics/Step14.png)
+![Screenshot](pics/Step15.png)
+![Screenshot](pics/Step16.png)
