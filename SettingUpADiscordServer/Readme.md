@@ -85,10 +85,17 @@ Cliquez sur *Create Category*
 ![Screenshot](pics/Step6.png)
 
 Dans la fenêtre qui apparaît : 
-- Entrez un nom de catégorie 
+- Entrez un nom de catégorie qui correspondra à votre classe. Ici *Physique L1* puisque ca correspond à vos enseignments pour le groupe 2 des étudiants de L1
+- Activez *Private Category* car cela facilitera la mise en place de droits différenciés des membres. Si cette case n'est pas activée, la catégorie sera accessible à tous les membres par défaut, à la création, et le paramétrage ultérieur sera plus fastidieux.
+- Cliquez sur *Create Category*
 
 ![Screenshot](pics/Step7.png)
+
+Dans la nouvelle fenêtre qui apparaît, cliquez sur **Skip for now** car pour l'instant, vous n'avez pas défini de rôles particuliers.
+
 ![Screenshot](pics/Step8.png)
+
+
 ![Screenshot](pics/Step9.png)
 ![Screenshot](pics/Step10.png)
 ![Screenshot](pics/Step11.png)
