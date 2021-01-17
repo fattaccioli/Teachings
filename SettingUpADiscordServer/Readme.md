@@ -29,6 +29,10 @@ Il est plus pratique d'avoir l'application installée, mais vous pouvez aussi tr
 
 ## Création du serveur pour vos enseignements
 
+Nous sommes ici sur la capture d'écran de mon application Discord, et vous pouvez voir avec les icones sur la partie gauche de l'écran les différents serveurs, publics ou privés, auxquels je me suis inscrit.
+
+Dans votre interface, ces icones n'apparaissent pas, puisque votre application est encore vierge, à l'exception du + qui vous permet d'ajouter un serveur.
+
 ![Screenshot](pics/Step1.png)
 ![Screenshot](pics/Step2.png)
 ![Screenshot](pics/Step3.png)
