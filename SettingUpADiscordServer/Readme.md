@@ -178,7 +178,20 @@ Dans vos enseignements, vous avez aussi un groupe d'étudiant de L3, et vous pr�
 
 
 ![Screenshot](pics/Step16.png)
+
+Nous revenons maintenant à la fenêtre principale, et nous allons associez les membres ayant le rôle **L1Groupe1** à leur catégorie d'enseignement **Physique L1**.
+
+Pour celà, il faut faire un clic droit sur la catégorie **Physique L1** et sélectionner **Edit Category**
+
+Dans la fenêtre qui apparait, vous pouvez choisir les rôles qui auront accès à la catégorie, et donc à tous les canaux qui en font partie.
+
+Ici, nous choisissons le rôle **L1groupe1** car c'est à eux que l'enseignement de physique est destiné.
+
+Enfin,cliquez **Done**
+
+<!---
 ![Screenshot](pics/Step17.png)
+--->
 ![Screenshot](pics/Step18.png)
 ![Screenshot](pics/Step19.png)
 ![Screenshot](pics/Step20.png)
@@ -188,5 +201,9 @@ Dans vos enseignements, vous avez aussi un groupe d'étudiant de L3, et vous pr�
 ![Screenshot](pics/Step24.png)
 ![Screenshot](pics/Step25.png)
 ![Screenshot](pics/Step26.png)
+
+<!---
 ![Screenshot](pics/Step27.png)
+--->
+
 ![Screenshot](pics/Step28.png)
