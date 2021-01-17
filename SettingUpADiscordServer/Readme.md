@@ -5,7 +5,7 @@
 Enseignant dans un collège/lycée ou à l'université, vous dispensez des enseignements différents à des niveaux différents cette année.
 
 Par exemple, vous donnez : 
-- Une série de cours de physique au groupe de TD n°2 des L1
+- Une série de cours de physique au groupe de TD n°1 des L1
 - Une série de cours de chimie à un petit groupe de L3
 
 Vous voulez mettre en place un serveur Discord qui regroupe ces enseignements et les étudiants qui les suivent, et éventuellement des collègues qui vous aident.
@@ -71,7 +71,7 @@ Ces canaux seront par défaut accessibles à toutes les personnes enregistrées 
 
 Il y a peut-être d'autres manières d'organiser votre serveur, mais voilà la manière dont j'ai procédé : 
 
-- A chaque classe (L1 Groupe 2 ou L3) nous allons associer une catégorie
+- A chaque classe (L1 Groupe 1 ou L3) nous allons associer une catégorie
 - Dans chaque catégorie, nous aurons plusieurs canaux (texte, visio)
 
 La particularité de Discord est de pouvoir définir des *rôles*, à savoir des familles de membres, avec des droits particuliers. Les droits peuvent être accordés au niveau des canaux, ou au niveau des catégories.
@@ -85,7 +85,7 @@ Cliquez sur *Create Category*
 ![Screenshot](pics/Step6.png)
 
 Dans la fenêtre qui apparaît : 
-- Entrez un nom de catégorie qui correspondra à votre classe. Ici *Physique L1* puisque ca correspond à vos enseignments pour le groupe 2 des étudiants de L1
+- Entrez un nom de catégorie qui correspondra à votre classe. Ici *Physique L1* puisque ca correspond à vos enseignments pour le groupe 1 des étudiants de L1
 - Activez *Private Category* car cela facilitera la mise en place de droits différenciés des membres. Si cette case n'est pas activée, la catégorie sera accessible à tous les membres par défaut, à la création, et le paramétrage ultérieur sera plus fastidieux.
 - Cliquez sur *Create Category*
 
@@ -161,8 +161,22 @@ Cliquez sur **Roles**
 
 ![Screenshot](pics/Step14.png)
 
+Appuyez sur **+** à coté de *Roles* et une ligne apparaît. 
+
+- Inscrivez **L1Groupe1**
+- Vous pouvez choisir une couleur qui permettra de différencier les membres qui appartiendront à ce groupe.
+- Enfin cliquez sur **Save Changes**
 
 ![Screenshot](pics/Step15.png)
+
+Dans vos enseignements, vous avez aussi un groupe d'étudiant de L3, et vous préférez dès maintenant créer un rôle correspondant : 
+
+ - Appuyez sur **+** à coté de *Roles* et une ligne apparaît. 
+- Inscrivez **L3Meca**
+- Vous pouvez choisir une couleur qui permettra de différencier les membres qui appartiendront à ce groupe.
+- Enfin cliquez sur **Save Changes**
+
+
 ![Screenshot](pics/Step16.png)
 ![Screenshot](pics/Step17.png)
 ![Screenshot](pics/Step18.png)
