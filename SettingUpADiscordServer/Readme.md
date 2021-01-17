@@ -213,10 +213,15 @@ Avant de copier le lien, il faut paramétrer quelques détails, aussi, il faut c
 
 ![Screenshot](pics/Step28.png)
 
+Le lien permettant de rejoindre votre serveur peut : 
+- expirer au bout d'un certain temps (par défaut : 1 jour). Choisissez **Never**
+- expirer au bout d'un certain nombre de personnes ayant cliqué dessus. Choisissez **No limit**
 
-<!---
-![Screenshot](pics/Step27.png)
---->
+Enfin cliquez, sur **Generate New Link**
+
+
+## Ajouter un nouveau membre à son rôle correspondant et lui donner accès à sa classe.
+
 ![Screenshot](pics/Step26.png)
 
 
