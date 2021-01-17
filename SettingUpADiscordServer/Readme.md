@@ -69,7 +69,24 @@ Ces canaux seront par défaut accessibles à toutes les personnes enregistrées 
 
 ## Création d'une catégorie et des canaux pour une classe
 
+Il y a peut-être d'autres manières d'organiser votre serveur, mais voilà la manière dont j'ai procédé : 
+
+- A chaque classe (L1 Groupe 2 ou L3) nous allons associer une catégorie
+- Dans chaque catégorie, nous aurons plusieurs canaux (texte, visio)
+
+La particularité de Discord est de pouvoir définir des *rôles*, à savoir des familles de membres, avec des droits particuliers. Les droits peuvent être accordés au niveau des canaux, ou au niveau des catégories.
+
+Ici, les rôles correspondront à des groupes d'étudiants, d'enseignants, de collègues, etc. Nous les définirons plus tard dans le tuto.
+
+Tout d'abord, cliquez sur *Enseignement* en haut à gauche, et vous verrez apparaître le menu suivant.
+
+Cliquez sur *Create Category*
+
 ![Screenshot](pics/Step6.png)
+
+Dans la fenêtre qui apparaît : 
+- Entrez un nom de catégorie 
+
 ![Screenshot](pics/Step7.png)
 ![Screenshot](pics/Step8.png)
 ![Screenshot](pics/Step9.png)
