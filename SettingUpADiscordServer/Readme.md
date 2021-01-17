@@ -95,10 +95,32 @@ Dans la nouvelle fenêtre qui apparaît, cliquez sur **Skip for now** car pour l
 
 ![Screenshot](pics/Step8.png)
 
+Vous voilà revenus à la page principale du server, et vous voyez maintenant la catégorie **Physique L1** dans la partie gauche de l'écran.
+
+Voilà le moment de créer vos canaux pour vos cours. Dans une catégorie, vous pouvez avoir un grand nombre de canaux, mais pour simplifier, nous allons créer un canal (*channel*) de type *text* et un canal de type *voice* (qui est en fait un canal de visio, avec possibilité de diffuser l'image prise par votre caméra ou un partage d'écran).
+
+Cliquez sur le **+** de la catégorie **Physique L1** et vous voyez apparaître un popup affichant *Create Channel*
 
 ![Screenshot](pics/Step9.png)
+
+Dans la fenêtre qui apparaît, intitulée *Create a Private Channel*, veuillez : 
+- Choisir **Text Channel** dans *CHANNEL TYPE*
+- Donner un nom à votre canal, ici *#physique-chat*
+- Activer l'option *Private channel*
+
+Et enfin cliquer sur *Create Channel*
+
+
 ![Screenshot](pics/Step10.png)
+
+Dans la fenêtre suivante, choisissez l'option **Skip for now** car, comme pour les catégories, vous n'avez pas encore de rôles définis.
+
 ![Screenshot](pics/Step11.png)
+
+Après être revenu
+
+![Screenshot](pics/Step11-2.png)
+
 ![Screenshot](pics/Step12.png)
 
 ## Création de rôles (familles de membres)
