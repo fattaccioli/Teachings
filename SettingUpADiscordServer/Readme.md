@@ -1,5 +1,19 @@
 # Petit tuto pour mettre en place un serveur Discord pour l'enseignement
 
+## Contexte
+
+Enseignant dans un collège/lycée ou à l'université, vous dispensez des enseignements différents à des niveaux différents cette année.
+
+Par exemple, vous donnez : 
+- Une série de cours de physique au groupe de TD n°2 des L1
+- Une série de cours de chimie à un petit groupe de L3
+
+Vous voulez mettre en place un serveur Discord qui regroupe ces enseignements et les étudiants qui les suivent, et éventuellement des collègues qui vous aident.
+
+Bien que ce ne soit pas exhaustif, vous pouvez suivre ce petit tuto qui vous montrera les premiers pas. 
+
+Monter un serveur simple prend à peine 10 minutes.
+
 ## Création du compte Discord
 
 Avant toute chose, il faut créer un compte permanent Discord à cette adresse : [lien](https://discord.com).
