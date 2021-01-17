@@ -25,3 +25,6 @@
 ![Screenshot](pics/Step23.png)
 ![Screenshot](pics/Step24.png)
 ![Screenshot](pics/Step25.png)
+![Screenshot](pics/Step26.png)
+![Screenshot](pics/Step27.png)
+![Screenshot](pics/Step28.png)
