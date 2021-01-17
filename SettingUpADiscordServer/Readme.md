@@ -194,12 +194,10 @@ Enfin,cliquez **Done**
 --->
 ![Screenshot](pics/Step18.png)
 ![Screenshot](pics/Step19.png)
-![Screenshot](pics/Step20.png)
 ![Screenshot](pics/Step21.png)
-![Screenshot](pics/Step22.png)
-![Screenshot](pics/Step23.png)
-![Screenshot](pics/Step24.png)
-![Screenshot](pics/Step25.png)
+
+## Génération d'un lien d'invitation pour les nouveaux membres
+
 ![Screenshot](pics/Step26.png)
 
 <!---
@@ -207,3 +205,10 @@ Enfin,cliquez **Done**
 --->
 
 ![Screenshot](pics/Step28.png)
+
+
+![Screenshot](pics/Step22.png)
+![Screenshot](pics/Step23.png)
+![Screenshot](pics/Step24.png)
+![Screenshot](pics/Step25.png)
+
