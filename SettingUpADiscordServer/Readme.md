@@ -117,13 +117,31 @@ Dans la fenêtre suivante, choisissez l'option **Skip for now** car, comme pour 
 
 ![Screenshot](pics/Step11.png)
 
-Après être revenu
+Après être revenu sur l'écran principal, vous voyez un canal intitulé **#physique-chat** dans la catégorie *Physique L1*. Si vous regardez attentivement, vous voyez un petit cadenas qui indique que ce canal est privé.
+
+Pour créer le canal de visio, procédez de la même manière que ci-dessus : 
+- Cliquez sur le **+** de la catégorie **Physique L1** et vous voyez apparaître un popup affichant *Create Channel*
 
 ![Screenshot](pics/Step11-1.png)
 
+Dans la fenêtre qui apparaît, intitulée *Create a Private Channel*, veuillez : 
+- Choisir **Voice Channel** dans *CHANNEL TYPE*
+- Donner un nom à votre canal, ici *#physique-visio*
+- Activer l'option *Private channel*
+
+Et enfin cliquer sur *Create Channel*
+
 ![Screenshot](pics/Step11-2.png)
 
+Dans la fenêtre suivante, choisissez l'option **Skip for now** car, comme pour les catégories, vous n'avez pas encore de rôles définis.
+
 ![Screenshot](pics/Step12.png)
+
+Voilà, vous avez maintenant la structure de base de votre enseignement de physique en L1. 
+
+Il vous reste maintenant a assigner un rôle à vos futurs étudiants de L1, pour qu'ils puissent : 
+- voir les deux canaux créés sur votre serveur
+- participer, par écrit dans le canal texte, et par voix/visio dans le canal visio.
 
 ## Création de rôles (familles de membres)
 
