@@ -220,11 +220,14 @@ Le lien permettant de rejoindre votre serveur peut :
 
 Enfin cliquez, sur **Generate New Link**
 
+![Screenshot](pics/Step26.png)
+
+
 ## Inviter des étudiants ou des collègues à rejoindre votre serveur
 
 Copiez le lien qui apparaît dans la nouvelle fenêtre.
 
-![Screenshot](pics/Step13.png)
+![Screenshot](pics/Step28.png)
 
 Envoyez le par le moyen de votre choix aux personnes que vous souhaitez rejoindre votre serveur.
 
@@ -237,12 +240,37 @@ A partir de maintenant, il y a deux possibilités :
 
 ## Ajouter un nouveau membre à son rôle correspondant et lui donner accès à sa classe.
 
-![Screenshot](pics/Step26.png)
+Un de vos contacts, dont le pseudo est **testfatta**, a rejoint votre serveur avec le lien que vous lui avez envoyé. 
+
+Une notification apparaît dans le canal #general, avec le pseudo.
 
 
+Pour l'instant, il n'a pas de rôle particulier et n'a donc accès qu'aux catégories et canaux publics, donc n'a pas accès aux canaux correspondants à l'enseignement qu'il doit suivre.
+
+
+Pour assigner un rôle à ce nouvel utilisateur, il faut cliquer sur son pseudo dans le panneau à droite de la fenêtre. Un popup apparaît, avec la possibilité de cliquer sur **+** et de choisir un ou plusieur rôles. Dans notre cas, c'est un étudiant de L1, on choisit donc **L1groupe1**.
 
 ![Screenshot](pics/Step22.png)
+
+Dans son navigateur, le nouvel utilisateur **testfatta** voit maintenant apparaître la catégorie **Physique L1** et les canaux associés, et peut maintenant communiquer avec vous par chat ou visio.
+
 ![Screenshot](pics/Step23.png)
-![Screenshot](pics/Step24.png)
+
+Dans la vue de votre serveur, vous voyez maintenant les message que **testfatta** vous envoie.
+
 ![Screenshot](pics/Step25.png)
+
+## Quelques pistes pour la suite : 
+
+Ca y est, votre serveur est fin prêt pour une première utilisation, et normalement, il n'y a plus de difficultés à partir de maintenant.
+
+Vous pouvez malgré tout continuer la mise en place : 
+
+- en ajoutant des rôles pour les collègues enseignants, qui auront accès à une ou plusieurs catégories. Comme vous avez pu le voir, vous pouvez d'abord créer les catégories, puis les rôles, ou l'inverse.
+
+- en ajoutant un *bot* de sondage, comme [Simple Poll](https://top.gg/bot/simplepoll). Il faut choisir **Invite** dans la page et suivre les instructions. 
+
+## Fin
+
+Si vous constatez des erreurs ou des choses parfois plus simples à effectuer pour la configuration, n'hésitez pas à m'en faire part.
 
