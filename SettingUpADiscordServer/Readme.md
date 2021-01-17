@@ -149,7 +149,7 @@ La création de rôles est aisée, et permet un paramétrage très fin des actio
 
 Nous nous contenteront de paramétrages simples, car ceux-ci sont suffisants pour l'utilisation qui sera la nôtre.
 
-Sur la page principal de votre nouveau serveur **Enseignement**, cliquez à droite du nom du serveur, puis sur **Server Settings**
+Sur la page principale de votre nouveau serveur **Enseignement**, cliquez à droite du nom du serveur, puis sur **Server Settings**
 
 ![Screenshot](pics/Step13.png)
 
@@ -183,28 +183,42 @@ Nous revenons maintenant à la fenêtre principale, et nous allons associez les 
 
 Pour celà, il faut faire un clic droit sur la catégorie **Physique L1** et sélectionner **Edit Category**
 
+![Screenshot](pics/Step19.png)
+
 Dans la fenêtre qui apparait, vous pouvez choisir les rôles qui auront accès à la catégorie, et donc à tous les canaux qui en font partie.
+
+![Screenshot](pics/Step18.png)
 
 Ici, nous choisissons le rôle **L1groupe1** car c'est à eux que l'enseignement de physique est destiné.
 
 Enfin,cliquez **Done**
 
-<!---
-![Screenshot](pics/Step17.png)
---->
-![Screenshot](pics/Step18.png)
-![Screenshot](pics/Step19.png)
 ![Screenshot](pics/Step21.png)
+
+
 
 ## Génération d'un lien d'invitation pour les nouveaux membres
 
-![Screenshot](pics/Step26.png)
+Sur la page principale de votre nouveau serveur **Enseignement**, cliquez à droite du nom du serveur, puis sur **Invite People**
+
+![Screenshot](pics/Step13.png)
+
+Dans la fenêtre qui apparaît, vous pouvez générer un lien (une URL) qui permettra à celles et ceux qui la reçoivent de pouvoir rejoindre votre serveur. 
+
+Dans la partie haute de la fenêtre, vous avez la liste des membres existants des divers serveurs auxquels vous êtes connectés, et aux "amis".
+
+Dans la partie basse, vous pouvez effectivement générer le lien.
+
+Avant de copier le lien, il faut paramétrer quelques détails, aussi, il faut cliquer sur **Edit invite link**
+
+![Screenshot](pics/Step28.png)
+
 
 <!---
 ![Screenshot](pics/Step27.png)
 --->
+![Screenshot](pics/Step26.png)
 
-![Screenshot](pics/Step28.png)
 
 
 ![Screenshot](pics/Step22.png)
