@@ -8,7 +8,7 @@ Il est plus pratique d'avoir l'application installée, mais vous pouvez aussi tr
 
 ## Création du serveur pour vos enseignements
 
-![Screenshot](pics/Step1.png)
+![Screenshot](pics/Step1.png | width=25)
 ![Screenshot](pics/Step2.png)
 ![Screenshot](pics/Step3.png)
 ![Screenshot](pics/Step4.png)
