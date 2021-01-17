@@ -50,7 +50,21 @@ La fenêtre suivante vous propose des options de personnalisation du serveur. Cl
 
 La fenêtre suivante vous propose de donner un nom à votre serveur. Ici nous avons choisi un nom très général *Enseignement* que vous pourrez personnaliser à votre guise.
 
+Si vous avez une icône ou une image pour représenter le serveur, vous pouvez cliquer sur le champ avec l'appareil photo. Cette opération peut être réalisée plus tard dans les paramètres du serveur.
+
+Appuyez sur *Create*
+
 ![Screenshot](pics/Step4.png)
+
+Voilà, votre serveur est créé. 
+
+Vous voyez deux canaux installés par défaut, dans deux catégories différentes : 
+
+- TEXT CHANNELS / #general
+- VOICE CHANNELS / #General
+
+Ces canaux seront par défaut accessibles à toutes les personnes enregistrées sur votre serveur, et, notamment, le canal #general affichera les événements importants (arrivée ou départ d'un nouveau membre notamment).
+
 ![Screenshot](pics/Step5.png)
 
 ## Création d'une catégorie et des canaux pour une classe
