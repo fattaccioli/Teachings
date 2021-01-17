@@ -1,10 +1,21 @@
 # Petit tuto pour mettre en place un serveur Discord pour l'enseignement
 
+## Création du compte Discord
+
+Avant toute chose, il faut créer un compte permanent Discord à cette adresse : [lien](https://discord.com).
+
+Il est plus pratique d'avoir l'application installée, mais vous pouvez aussi travailler directement dans le navigateur.
+
+## Création du serveur pour vos enseignements
+
 ![Screenshot](pics/Step1.png)
 ![Screenshot](pics/Step2.png)
 ![Screenshot](pics/Step3.png)
 ![Screenshot](pics/Step4.png)
 ![Screenshot](pics/Step5.png)
+
+## Création d'une catégorie et des canaux pour une classe
+
 ![Screenshot](pics/Step6.png)
 ![Screenshot](pics/Step7.png)
 ![Screenshot](pics/Step8.png)
