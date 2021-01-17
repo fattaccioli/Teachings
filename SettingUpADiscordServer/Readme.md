@@ -10,7 +10,14 @@ Par exemple, vous donnez :
 
 Vous voulez mettre en place un serveur Discord qui regroupe ces enseignements et les étudiants qui les suivent, et éventuellement des collègues qui vous aident.
 
-Bien que ce ne soit pas exhaustif, vous pouvez suivre ce petit tuto qui vous montrera les premiers pas. 
+Pour chaque niveau et chaque cours, vous voulez utiliser : 
+
+- un canal de chat permanent (écrit) qui vous permet d'échanger avec les étudiants tout au long du semestre, poser des questions, etc.
+- un canal de visio qui agira comme une salle de classe virtuelle, et à laquelle vous vous connecterez avec les étudiants pour un cours en synchrone.
+
+Enfin, pour l'ensemble de votre serveur, vous voulez pouvoir faire des sondages simples, soit pour l'organisation, soit lors des cours synchrones pour vous assurer que les étudiants ont bien compris une notion.
+
+Bien que ce qui est écrit ci-dessous ne soit pas exhaustif, vous pouvez suivre ce petit tuto qui vous montrera les premiers pas. 
 
 Monter un serveur simple prend à peine 10 minutes.
 
