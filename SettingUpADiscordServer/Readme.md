@@ -274,5 +274,6 @@ Vous pouvez malgré tout continuer la mise en place :
 ## Fin
 
 Si vous constatez des erreurs ou des choses parfois plus simples à effectuer pour la configuration, n'hésitez pas à m'en faire part.
-Un grand merci à deux collègues, l'une à l'université (@l_gonnord), le second au lycée (@P0litgeek) pour m'avoir acceuilli dans leurs cours en ligne lors du premier confinement (Printemps 2020). 
+
+Un grand merci à deux collègues, l'une à l'université ([@l_gonnord](https://twitter.com/l_gonnord)), le second au lycée ([@P0litgeek](https://twitter.com/P0litgeek)) pour m'avoir acceuilli dans leurs cours en ligne lors du premier confinement (Printemps 2020). 
 
