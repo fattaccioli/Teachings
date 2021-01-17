@@ -119,6 +119,8 @@ Dans la fenêtre suivante, choisissez l'option **Skip for now** car, comme pour 
 
 Après être revenu
 
+![Screenshot](pics/Step11-1.png)
+
 ![Screenshot](pics/Step11-2.png)
 
 ![Screenshot](pics/Step12.png)
