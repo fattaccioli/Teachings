@@ -1,4 +1,5 @@
-# Petit tuto pour mettre en place un serveur Discord pour l'enseignement
+# Tutoriel pour mettre en place un serveur Discord pour l'enseignement
+Date : 17 janvier 2021
 
 ## Contexte
 
