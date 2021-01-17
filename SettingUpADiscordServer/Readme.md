@@ -8,7 +8,7 @@ Il est plus pratique d'avoir l'application installée, mais vous pouvez aussi tr
 
 ## Création du serveur pour vos enseignements
 
-![Screenshot](pics/Step1.png | width=25)
+![Screenshot](pics/Step1.png)
 ![Screenshot](pics/Step2.png)
 ![Screenshot](pics/Step3.png)
 ![Screenshot](pics/Step4.png)
@@ -23,6 +23,9 @@ Il est plus pratique d'avoir l'application installée, mais vous pouvez aussi tr
 ![Screenshot](pics/Step10.png)
 ![Screenshot](pics/Step11.png)
 ![Screenshot](pics/Step12.png)
+
+## Création de rôles (familles de membres)
+
 ![Screenshot](pics/Step13.png)
 ![Screenshot](pics/Step14.png)
 ![Screenshot](pics/Step15.png)
