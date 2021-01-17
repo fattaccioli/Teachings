@@ -43,7 +43,13 @@ Cliquez dessus, et une petite fenêtre apparaitra. Vous avez alors le choix :
 Choisissez la première option (Create my own)
 
 ![Screenshot](pics/Step2.png)
+
+La fenêtre suivante vous propose des options de personnalisation du serveur. Cliquez sur *Skip this question*
+
 ![Screenshot](pics/Step3.png)
+
+La fenêtre suivante vous propose de donner un nom à votre serveur. Ici nous avons choisi un nom très général *Enseignement* que vous pourrez personnaliser à votre guise.
+
 ![Screenshot](pics/Step4.png)
 ![Screenshot](pics/Step5.png)
 
