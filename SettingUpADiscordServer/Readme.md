@@ -145,8 +145,23 @@ Il vous reste maintenant a assigner un rôle à vos futurs étudiants de L1, pou
 
 ## Création de rôles (familles de membres)
 
+La création de rôles est aisée, et permet un paramétrage très fin des actions permises à chaque groupe d'utilisateurs. 
+
+Nous nous contenteront de paramétrages simples, car ceux-ci sont suffisants pour l'utilisation qui sera la nôtre.
+
+Sur la page principal de votre nouveau serveur **Enseignement**, cliquez à droite du nom du serveur, puis sur **Server Settings**
+
 ![Screenshot](pics/Step13.png)
+
+Vous arrivez maintenant sur une page très dense, qui vous permet de paramétrer votre serveur : 
+
+- Si vous n'aviez pas encore uploadé une photo ou une image de personnalisation du serveur, vous pouvez le faire maintenant dans la fenêtre **Overview**
+
+Cliquez sur **Roles**
+
 ![Screenshot](pics/Step14.png)
+
+
 ![Screenshot](pics/Step15.png)
 ![Screenshot](pics/Step16.png)
 ![Screenshot](pics/Step17.png)
