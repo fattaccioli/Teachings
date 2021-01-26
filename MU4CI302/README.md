@@ -117,7 +117,14 @@ Il est très important que vous puissiez refaire les exemples seuls, c'est-à-di
 
 ### Séance 3 (25/01/2021)
 
-Actualisation en cours
+Vous avez tous bien progressé, à la fois en Matlab et avec ImageJ/Fiji. Pour Fiji et l'analyse d'image, il vous manque encore deux chapitres pour pouvoir être indépendants et vous attaquer aux projets. Notamment pour connaitre les notions de segmentation et d'analyse de particules.
+
+### Séance 4 (01/02/2021)
+
+Idéalement, il faudrait que vous puissiez suivre le chapitre 4 et le début du chapitre 5 des cours sur l'analyse d'image avant la séance.
+Dans la séance 4, la partie relative aux filtres dans l'espace de Fourier n'est pas vraiment nécessaire. Il vaut mieux se concentrer sur les filtres dans l'espace réel, et aux problèmes de segmentation.
+
+Il faut commencer à penser aux projets, et notamment au premier, ou il faudra analyser les films de particules seules animées d'un mouvement brownien, et plus spécifiquement "mouvement_Brownien.avi".
 
 ## Resources
 
