@@ -90,6 +90,35 @@ https://www.edx.org/course/matlab-et-octave-pour-debutants
 
 Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
 
+#### Séance 1 (11/01/2021)
+
+En amont de la séance, veuillez regarder cette vidéo : https://www.youtube.com/watch?v=sAIzoZac9ZA
+Elle a été réalisée par le DIM ELICIT, qui est une structure de financement de la région Ile de France dédiée aux Technologies pour la Santé.
+
+- Connectez-vous sur la visio Discord à 13h30 pour que l'on puisse, Thomas et moi, vous présenter notre partie d'UE et les projets associés.
+- Avant ou après la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
+- Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord. Nous répondrons aux questions par écrit, puis lors de la visio de la semaine suivante.
+
+#### Séance 2 (18/01/2021)
+
+Normalement, vous avez tous un environnement de travail fonctionnel, et réalisé au mois la partie 1 du MOOC sur l'analyse d'image et celle sur Matlab/Octave.
+
+- RDV à 13h30 sur la visio Discord pour debriefer la séance 1, à partir des questions que vous aurez posées sur le chat pendant la semaines.
+- Normalement, vous pouvez suivre la partie 2 des cours sur l'analyse d'image et des cours sur Matlab/Octave.
+
+Il est très important que vous puissiez refaire les exemples seuls, c'est-à-dire sans support visuel. 
+
+#### Séance 3 (25/01/2021)
+
+Vous avez tous bien progressé, à la fois en Matlab et avec ImageJ/Fiji. Pour Fiji et l'analyse d'image, il vous manque encore deux chapitres pour pouvoir être indépendants et vous attaquer aux projets. Notamment pour connaitre les notions de segmentation et d'analyse de particules.
+
+#### Séance 4 (01/02/2021)
+
+Idéalement, il faudrait que vous puissiez suivre le chapitre 4 et le début du chapitre 5 des cours sur l'analyse d'image avant la séance.
+Dans la séance 4, la partie relative aux filtres dans l'espace de Fourier n'est pas vraiment nécessaire. Il vaut mieux se concentrer sur les filtres dans l'espace réel, et aux problèmes de segmentation.
+
+Il faut commencer à penser aux projets, et notamment au premier, ou il faudra analyser les films de particules seules animées d'un mouvement brownien, et plus spécifiquement "mouvement_Brownien.avi".
+
 ### De la semaine 5 à la fin de l'UE
 
 Vous avez normalement bien progressé en analyse d'images et en programmation, en fonction de vos connaissances préalables.
@@ -104,37 +133,6 @@ Les informations sont mises à jour dans les dossiers dédiés :
 
 Le dossier est [ici](https://github.com/jfattaccioli/Teachings/tree/master/MU4CI302/SingleParticle-Diffusion)
 
-
-## Programme des séances
-
-### Séance 1 (11/01/2021)
-
-En amont de la séance, veuillez regarder cette vidéo : https://www.youtube.com/watch?v=sAIzoZac9ZA
-Elle a été réalisée par le DIM ELICIT, qui est une structure de financement de la région Ile de France dédiée aux Technologies pour la Santé.
-
-- Connectez-vous sur la visio Discord à 13h30 pour que l'on puisse, Thomas et moi, vous présenter notre partie d'UE et les projets associés.
-- Avant ou après la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
-- Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord. Nous répondrons aux questions par écrit, puis lors de la visio de la semaine suivante.
-
-### Séance 2 (18/01/2021)
-
-Normalement, vous avez tous un environnement de travail fonctionnel, et réalisé au mois la partie 1 du MOOC sur l'analyse d'image et celle sur Matlab/Octave.
-
-- RDV à 13h30 sur la visio Discord pour debriefer la séance 1, à partir des questions que vous aurez posées sur le chat pendant la semaines.
-- Normalement, vous pouvez suivre la partie 2 des cours sur l'analyse d'image et des cours sur Matlab/Octave.
-
-Il est très important que vous puissiez refaire les exemples seuls, c'est-à-dire sans support visuel. 
-
-### Séance 3 (25/01/2021)
-
-Vous avez tous bien progressé, à la fois en Matlab et avec ImageJ/Fiji. Pour Fiji et l'analyse d'image, il vous manque encore deux chapitres pour pouvoir être indépendants et vous attaquer aux projets. Notamment pour connaitre les notions de segmentation et d'analyse de particules.
-
-### Séance 4 (01/02/2021)
-
-Idéalement, il faudrait que vous puissiez suivre le chapitre 4 et le début du chapitre 5 des cours sur l'analyse d'image avant la séance.
-Dans la séance 4, la partie relative aux filtres dans l'espace de Fourier n'est pas vraiment nécessaire. Il vaut mieux se concentrer sur les filtres dans l'espace réel, et aux problèmes de segmentation.
-
-Il faut commencer à penser aux projets, et notamment au premier, ou il faudra analyser les films de particules seules animées d'un mouvement brownien, et plus spécifiquement "mouvement_Brownien.avi".
 
 ## Resources
 
