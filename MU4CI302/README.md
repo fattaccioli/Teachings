@@ -92,7 +92,17 @@ Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites a
 
 ### De la semaine 5 à la fin de l'UE
 
-A mettre à jour.
+Vous avez normalement bien progressé en analyse d'images et en programmation, en fonction de vos connaissances préalables.
+À partir d'aujourd'hui, vous avez deux choses à faire en parallèle : 
+
+1. Continuer à progresser dans les deux cours en ligne, car il y a des choses interessantes à connaitre au delà de ce que vous avez appris jusqu'à aujourd'hui.
+2. Mener à bien les 3 premiers projets d'analyse sans support de cours : analyse du mouvement de billes et analyse de la fluorescence de cellules.
+
+Les informations sont mises à jour dans les dossiers dédiés :
+
+#### Projet 1 : Analyse du mouvement de particules browniennes
+
+Le dossier est [ici](https://github.com/jfattaccioli/Teachings/tree/master/MU4CI302/SingleParticle-Diffusion)
 
 
 ## Programme des séances
