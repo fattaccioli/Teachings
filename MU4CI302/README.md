@@ -138,6 +138,9 @@ Le dossier est [ici](https://github.com/jfattaccioli/Teachings/tree/master/MU4CI
 
 ## Resources
 
+### Brownian motion
+https://www.youtube.com/watch?v=NSe3TFLYcO8
+
 ### Importance of diffusion processes
 http://thebiologyprimer.com/diffusion-and-osmosis
 
@@ -163,8 +166,5 @@ http://site.physics.georgetown.edu/matlab/
 http://soft-matter.github.io/trackpy/v0.4.2/
 
 From the work of Crocker, Grier and others.
-
-### Brownian motion
-https://www.youtube.com/watch?v=NSe3TFLYcO8
 
 
