@@ -50,7 +50,7 @@ Lors des semaines en autonomie, vous pouvez utiliser des salles disponibles sur 
 
 ### FAQ (Frequently Asked Questions)
 
-Les réponses aux questions que vous nous posez par chat écrit seront mises en forme et rédigées dans le répertoire FAQ.
+Les réponses aux questions que vous nous posez par chat écrit seront mises en forme et rédigées dans le répertoire [FAQ](https://github.com/jfattaccioli/Teachings/tree/master/MU4CI302/FAQ).
 Il sera mis à jour régulièrement.
 
 ### Constitution des binômes de travail
