@@ -158,6 +158,12 @@ Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur ext
 ### Particle tracking with Matlab 
 http://site.physics.georgetown.edu/matlab/
 
+### Particle tracking with Python
+
+http://soft-matter.github.io/trackpy/v0.4.2/
+
+From the work of Crocker, Grier and others.
+
 ### Brownian motion
 https://www.youtube.com/watch?v=NSe3TFLYcO8
 
