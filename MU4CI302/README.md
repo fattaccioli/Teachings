@@ -1,7 +1,9 @@
 # Chimie et Numérique
 # MU4CI302 - 2020/2021
 
-Bonjour à toutes et à tous, ce document donnes les informations nécessaires pour la partie Data Science du groupe du Lundi dans l'UE Chimie et Numérique
+Bonjour à toutes et à tous, ce document donnes les informations nécessaires pour la partie Data Science du groupe du Lundi dans l'UE Chimie et Numérique.
+
+Intervenants : J. Fattaccioli, T. Le Saux (Sorbonne Université, Laboratoire [PASTEUR](https://www.chimie.ens.fr/?q=pasteur), Département de Chimie, ENS)
 
 ## Objectifs du cours
 
