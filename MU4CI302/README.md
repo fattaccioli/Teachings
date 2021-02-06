@@ -1,6 +1,6 @@
 # Chimie et Numérique - MU4CI302 - 2020/2021
-# Sorbonne Université - Master 1 de Chimie
-# Option : Data Science
+## Sorbonne Université - Master 1 de Chimie
+## Option : Data Science
 
 Bonjour à toutes et à tous, ce document donnes les informations nécessaires pour la partie Data Science du groupe du Lundi dans l'UE Chimie et Numérique.
 
