@@ -19,7 +19,7 @@ Parmi les problèmes proposés :
 
 1. mesure d'un coefficient de diffusion d'une particule (avec et sans champ externe)
 2. mesure de l'hétérogénéité de fluorescence d'une population de cellules
-3. à suivre.
+3. mesure de l'expression de protéines fluorescentes dans des gouttelettes microfluidiques
 
 ## Prérequis
 
