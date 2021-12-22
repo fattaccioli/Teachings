@@ -1,6 +1,6 @@
 # Expression cell-free de protéines en gouttes microfluidiques
 
-Le but de ce projet est d’utiliser les outils de l’analyse d’images afin d’obtenir les courbes de cinétique de la synthèse in vitro de deux protéines fluorescentes : la protéine Phi-YFP et la protéine mKate2 à partir d’images de microscopie optique.
+Le but de ce projet est d’utiliser les outils de l’analyse d’images afin d’obtenir les courbes de cinétique de la synthèse _in vitro_ de deux protéines fluorescentes : la protéine Phi-YFP et la protéine mKate2 à partir d’images de microscopie optique.
 
 # Se rafraichir la mémoire sur les objectifs et le cadre scientifique
 
