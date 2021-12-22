@@ -6,22 +6,23 @@ Le but de ce projet est d’utiliser les outils de l’analyse d’images afin d
 
 Vous trouverez dans le dossier le film **Artificial_cells_1fpm.avi** 
 
-Celui-ci a été obtenu par microscopie de fluorescence et montre des gouttes microfluidiques contenant un milieu d’expression dit « cell-free » et qui permet l’expression _in vitro_ de protéines à partir de leurs séquences d’ADN. L’expression de deux séquences codantes sont étudiées simultanément : une protéine fluorescente jaune (Phi-YFP, https://www.fpbase.org/protein/phiyfp/) et une protéine fluorescente rouge (mKate2, https://www.fpbase.org/protein/mkate2/). 
+Celui-ci a été obtenu par microscopie de fluorescence et montre des gouttes microfluidiques contenant un milieu d’expression dit « cell-free » et qui permet l’expression _in vitro_ de protéines à partir de leurs séquences d’ADN. 
+L’expression de deux séquences codantes sont étudiées simultanément : une protéine fluorescente jaune (Phi-YFP, https://www.fpbase.org/protein/phiyfp/) et une protéine fluorescente rouge (mKate2, https://www.fpbase.org/protein/mkate2/). 
 Des protéines non-actives et marquées par un fluorophore bleu sont également ajoutées au milieu (Streptavidin-Atto-425).
 
 Les documents auxquels vous pouvez vous référer sont :
 
 Pour l’analyse d’images et la prise en main d’ImageJ :
-https://www.edx.org/course/image-processing-and-analysis-for-life-scientists (EN)
-https://ww2.ac-poitiers.fr/biochimie/sites/biochimie/IMG/pdf/tutorielimagej.pdf (FR)
+- https://www.edx.org/course/image-processing-and-analysis-for-life-scientists (EN)
+- https://ww2.ac-poitiers.fr/biochimie/sites/biochimie/IMG/pdf/tutorielimagej.pdf (FR)
 
 Pour la culture scientifique :
-•	Sur les protéines fluorescentes: 
+- Sur les protéines fluorescentes: 
 https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescent-proteins  (EN)
 https://trigenotoul.com/wp-content/uploads/2014/09/Proteines-fluorescentes-cours.pdf  (FR)
-•	Sur l’expression de protéines : 
+- Sur l’expression de protéines : 
 http://biochimej.univ-angers.fr/Page2/COURS/7RelStructFonction/2Biochimie/1SyntheseProteines/1SyntheseProt.htm 
-•	Sur la microfluidique:
+- Sur la microfluidique:
 https://www.youtube.com/watch?v=oPJfXSb5QYw&ab_channel=LeprojetLut%C3%A9tium (et vidéos suivantes...)
 
 # Principe général de l'analyse du film
@@ -36,5 +37,3 @@ _(Afin de prendre progressivement en main ces nouveaux outils numériques, vous 
 4.	Vous pourrez alors en faire une étude statistique et comparer les résultats pour les deux protéines.
 
 
-
-![image](https://user-images.githubusercontent.com/77150239/147095744-130bdfba-7cf0-4c1f-b845-c64ee2266b0c.png)
