@@ -35,18 +35,7 @@ C'est l'outil qui sera utilisé pour les cours en visio, et aussi pour les quest
 
 ### Planning
 
-- S1 – 11-13 janv PM : Autonomie + Visio
-- S2 – 18-20 janv PM : Autonomie (Salle disponible)
-- S3 – 25-27 janv PM : Autonomie + Visio
-- S4 – 1-3 fev PM :    Autonomie (Salle disponible)
-- S5 – 8-10 fev PM : Autonomie + Visio
-- S6 – 15-17 fev PM :    Autonomie (Salle disponible)
-- S7 – 1-3 mar PM : Autonomie + Visio
-- S8 – 8-10 mar PM :    Autonomie (Salle disponible)
-- S9 – 15-17 mar PM : Autonomie + Visio
-- S10 – 22-24 mar PM : Visio / Présentations de fin de projet
-
-Lors des semaines en autonomie, vous pouvez utiliser des salles disponibles sur le campus de l'Université, ou les bibliothèques.
+Le planning des séances du mercredi est disponible sur le site Moodle de l'UE.
 
 ### FAQ (Frequently Asked Questions)
 
@@ -64,9 +53,8 @@ Veuillez mettre à jour les colonnes de progression ImageJ et Matlab au cours du
 
 Il y aura plusieurs choses à rendre pendant le semestre : 
 
-1. Quelques quiz intermédiares sur des points techniques
-2. Un rapport court (4000 mots maximum, bibliographie incluse) à rendre pour la semaine du 17 mars 2021
-3. Une présentation par binôme (10 minutes / 5 min de questions)
+1. A mi-parcours, une courte présentation sur l'analyse d'images dans le cadre des projets sur lesquels vous travaillerez.
+2. Une présentation par binôme (10 minutes / 5 min de questions)
 
 ## Progression du travail
 
