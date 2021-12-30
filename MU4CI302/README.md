@@ -1,4 +1,4 @@
-# Chimie et Numérique - MU4CI302 - 2020/2021
+# Chimie et Numérique - MU4CI302 - 2021/2022
 ## Sorbonne Université - Master 1 de Chimie
 ## Option : Data Science
 
