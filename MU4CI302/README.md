@@ -81,7 +81,7 @@ https://www.edx.org/course/matlab-et-octave-pour-debutants
 
 Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
 
-#### Séance 1 (11/01/2021)
+#### Séance 1 
 
 En amont de la séance, veuillez regarder cette vidéo : https://www.youtube.com/watch?v=sAIzoZac9ZA
 
@@ -91,7 +91,7 @@ Elle a été réalisée par le [DIM ELICIT](https://dim-elicit.fr/en/), qui est 
 - Avant ou après la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
 - Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord. Nous répondrons aux questions par écrit, puis lors de la visio de la semaine suivante.
 
-#### Séance 2 (18/01/2021)
+#### Séance 2 
 
 Normalement, vous avez tous un environnement de travail fonctionnel, et réalisé au mois la partie 1 du MOOC sur l'analyse d'image et celle sur Matlab/Octave.
 
@@ -100,11 +100,11 @@ Normalement, vous avez tous un environnement de travail fonctionnel, et réalis�
 
 Il est très important que vous puissiez refaire les exemples seuls, c'est-à-dire sans support visuel. 
 
-#### Séance 3 (25/01/2021)
+#### Séance 3 
 
 Vous avez tous bien progressé, à la fois en Matlab et avec ImageJ/Fiji. Pour Fiji et l'analyse d'image, il vous manque encore deux chapitres pour pouvoir être indépendants et vous attaquer aux projets. Notamment pour connaitre les notions de segmentation et d'analyse de particules.
 
-#### Séance 4 (01/02/2021)
+#### Séance 4 
 
 Idéalement, il faudrait que vous puissiez suivre le chapitre 4 et le début du chapitre 5 des cours sur l'analyse d'image avant la séance.
 Dans la séance 4, la partie relative aux filtres dans l'espace de Fourier n'est pas vraiment nécessaire. Il vaut mieux se concentrer sur les filtres dans l'espace réel, et aux problèmes de segmentation.
