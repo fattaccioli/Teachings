@@ -32,7 +32,7 @@ Mais nous pouvons donner malgré tout quelques éléments pour débuter.
 _(Afin de prendre progressivement en main ces nouveaux outils numériques, vous pouvez réduire le film et commencer par l’analyse d’une seule goutte avant l’analyse complète!)_
 
 1.	La première chose à faire dans votre cas, avec Fiji ou Matlab/Octave, est de traiter le film afin de détecter les gouttes à l’aide du signal de fluorescence bleu, qui est à peu près constant au cours de l’expérience. 
-2.	Les régions détectées pourront ensuite être utilisées afin de mesurer le signal vert et le signal rouge dans chaque goutte. Il faudra peut-être obtenir également les positions de chaque gouttes (ou d’autres informations !) en fonction des analyses que vous voulez faire.
+2.	Les régions détectées pourront ensuite être utilisées afin de mesurer le signal vert (Phi-YFP) et le signal rouge (mKate2) dans chaque goutte. Il faudra peut-être obtenir également les positions de chaque gouttes (ou d’autres informations !) en fonction des analyses que vous voulez faire.
 3.	Quand vous aurez ce tableau de données, vous utiliserez un logiciel de traitement de données (Matlab/Octave ou Python) afin de reconstruire l’évolution des différents signaux au cours du temps dans chaque goutte.
 4.	Vous pourrez alors en faire une étude statistique et comparer les résultats pour les deux protéines.
 
