@@ -60,9 +60,9 @@ Il y aura plusieurs choses à rendre pendant le semestre :
 
 ### De la semaine 1 à la semaine 4 incluse
 
-Comme des cours en ligne sont parfois très bien faits, nous vous proposons pour la première période de cette UE de vous enregistrer sur ces cours en ligne : 
+Comme des cours en ligne sont parfois très bien faits, nous vous proposons pour la première période de cette UE de vous enregistrer sur ce cours en ligne : 
 
-1. Image Processing and Analysis for Life Scientists
+Image Processing and Analysis for Life Scientists
 https://www.edx.org/course/image-processing-and-analysis-for-life-scientists
 
 et de suivre au moins les 3 premiers cours : 
@@ -75,9 +75,6 @@ Introduction to image scaling, interpolation, and mathematical operations of ima
 
 Nous ferons des points intermédiaires en visio pour que vous puissiez nous poser des questions sur des choses encore peu comprises.
 
-2. Matlab et GNU Octave pour les débutants 
-https://www.edx.org/course/matlab-et-octave-pour-debutants
-
 
 Il y a bien entendu d'autres ressources disponibles (MOOCs, etc.), donc faites au mieux, mais il sera difficile de se passer de ces connaissances pour la suite.
 
@@ -87,22 +84,20 @@ En amont de la séance, veuillez regarder cette vidéo : https://www.youtube.com
 
 Elle a été réalisée par le [DIM ELICIT](https://dim-elicit.fr/en/), qui est une structure de financement de la région Ile de France dédiée aux Technologies pour la Santé.
 
-- Connectez-vous sur la visio Discord à 13h30 pour que l'on puisse, Thomas et moi, vous présenter notre partie d'UE et les projets associés.
-- Avant ou après la visio, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
+- Avant ou après la premère séance, veuillez vous inscrire sur les deux MOOCs et aller au bout de la leçon 1 du MOOC sur l'Analyse d'Image
 - Veuillez poser vos questions (choses imprécises, etc) sur le canal dédié sur Discord. Nous répondrons aux questions par écrit, puis lors de la visio de la semaine suivante.
 
 #### Séance 2 
 
-Normalement, vous avez tous un environnement de travail fonctionnel, et réalisé au mois la partie 1 du MOOC sur l'analyse d'image et celle sur Matlab/Octave.
+Normalement, vous avez tous un environnement de travail fonctionnel, et réalisé au mois la partie 1 du MOOC sur l'analyse d'image.
 
-- RDV à 13h30 sur la visio Discord pour debriefer la séance 1, à partir des questions que vous aurez posées sur le chat pendant la semaines.
-- Normalement, vous pouvez suivre la partie 2 des cours sur l'analyse d'image et des cours sur Matlab/Octave.
+- Normalement, vous pouvez suivre la partie 2 des cours sur l'analyse d'image.
 
 Il est très important que vous puissiez refaire les exemples seuls, c'est-à-dire sans support visuel. 
 
 #### Séance 3 
 
-Vous avez tous bien progressé, à la fois en Matlab et avec ImageJ/Fiji. Pour Fiji et l'analyse d'image, il vous manque encore deux chapitres pour pouvoir être indépendants et vous attaquer aux projets. Notamment pour connaitre les notions de segmentation et d'analyse de particules.
+Vous avez tous bien progressé avec ImageJ/Fiji. Pour Fiji et l'analyse d'image, il vous manque encore deux chapitres pour pouvoir être indépendants et vous attaquer aux projets. Notamment pour connaitre les notions de segmentation et d'analyse de particules.
 
 #### Séance 4 
 
@@ -142,6 +137,9 @@ Analyser des images necéssite d'utiliser des logiciels spécifiques ou généra
 - Python avec la distribution Anaconda : https://anaconda.org (Libre, donc installable sans procédure particulière sur votre ordinateur personnel)
 
 GNU Octave est un clone libre de Matlab. Vous pouvez donc l'installer sur votre ordinateur personnel sans license payante particulière.
+
+Un bon cours en ligne de Matlab et GNU Octave pour les débutants 
+https://www.edx.org/course/matlab-et-octave-pour-debutants
 
 Pour se connecter à votre bureau virtuel de LUTES à partir d'un ordinateur extérieur à LUTES (domicile, bibliothèque), vous devez suivre ces instructions suivantes : 
 - Installer Microsoft Remote Desktop (disponible pour PC et Mac : https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?activetab=pivot:overviewtab
